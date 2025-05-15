@@ -16,7 +16,7 @@
 1. Клонировать репозиторий на локальный компьютер с помощью команды:
 
    ```bash
-   git clone https://github.com/ArtemByram/Proje-t
+    https://github.com/ArtemByram/Proje-t
    ```
 
 2. Открыть проект в любой IDE для работы с Python (например, PyCharm или VS Code).
